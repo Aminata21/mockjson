@@ -1,0 +1,42 @@
+ {
+ "demandelivraison" :[
+        {
+            "nomClient": "Jean Dupont",
+            "adresse": "10 rue de la Paix, Paris",
+            "dateLivraison": "2022-04-15",
+            "heureLivraison": "14:00",
+            "description": "Colis à recuperer à saint-Martini et livrer à la rue la paix de Paris",
+            "articles": [
+                {
+                    "nomArticle": "Chemise",
+                    "quantite": 3
+                },
+                {
+                    "nomArticle": "Pantalon",
+                    "quantite": 2
+                }
+            ]
+        },
+        {
+            "nomClient": "Marie Martin",
+            "adresse": "25 avenue des Champs-Élysées, Paris",
+            "dateLivraison": "2022-04-17",
+            "heureLivraison": "10:00",
+            "description": "Colis à recuperer à saint-Yves et livrer à la rue la père Marquette"
+            "articles": [
+                {
+                    "nomArticle": "Robe",
+                    "quantite": 1
+                },
+                {
+                    "nomArticle": "Chaussures",
+                    "quantite": 1
+                },
+                {
+                    "nomArticle": "Sac à main",
+                    "quantite": 1
+                }
+            ]
+        }
+    ]
+    }
