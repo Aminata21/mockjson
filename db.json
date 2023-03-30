@@ -22,7 +22,7 @@
             "adresse": "25 avenue des Champs-Élysées, Paris",
             "dateLivraison": "2022-04-17",
             "heureLivraison": "10:00",
-            "description": "Colis à recuperer à saint-Yves et livrer à la rue la père Marquette"
+            "description": "Colis à recuperer à saint-Yves et livrer à la rue la père Marquette",
             "articles": [
                 {
                     "nomArticle": "Robe",
