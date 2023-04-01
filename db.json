@@ -1,5 +1,5 @@
  {
- "demandelivraison" :[
+ "demandeLivraison" :[
         {
             "nomClient": "Jean Dupont",
             "adresse": "10 rue de la Paix, Paris",
@@ -37,6 +37,58 @@
                     "quantite": 1
                 }
             ]
-        }
+           },
+        {
+            "nomClient": "Jochiang Dupont",
+            "adresse": "11 rue de la Pastille, Paris",
+            "dateLivraison": "2023-07-15",
+            "heureLivraison": "14:00",
+            "description": "Colis à recuperer à saint-Martini et livrer à la rue la Pastille de Paris",
+            "articles": [
+                {
+                    "nomArticle": "Sac",
+                    "quantite": 3
+                },
+                {
+                    "nomArticle": "Pantalon",
+                    "quantite": 2
+                }
+            ]
+        },    
+        {
+            "nomClient": "Sawa Kev",
+            "adresse": "23 rue Papineau, Paris",
+            "dateLivraison": "2023-04-15",
+            "heureLivraison": "09:00",
+            "description": "Colis à recuperer à saint-Martini et livrer à la rue Papineau de TR",
+            "articles": [
+                {
+                    "nomArticle": "Sac",
+                    "quantite": 3
+                },
+                {
+                    "nomArticle": "Chaussures",
+                    "quantite": 2
+                }
+            ]
+        },  
+         {
+            "nomClient": "Kone Mimi",
+            "adresse": "123 rue du père-Marquette, TR",
+            "dateLivraison": "2023-04-07",
+            "heureLivraison": "16:00",
+            "description": "Colis à recuperer à saint-Martini et livrer à la rue du père-Marquette de TR",
+            "articles": [
+                {
+                    "nomArticle": "Sac",
+                    "quantite": 3
+                },
+                {
+                    "nomArticle": "Pantalon",
+                    "quantite": 2
+                }
+            ]
+        },  
+  
     ]
     }
