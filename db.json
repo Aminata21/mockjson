@@ -29,31 +29,6 @@
     "id": 5,
     "title": "livraison de 2 articles à effectuer à Boostrap",
     "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 6,
-    "title": "livraison de 1 articles à effectuer à Shawinigan",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 7,
-    "title": "livraison de 7 articles à effectuer à Rimouski",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 8,
-    "title": "livraison de 2 articles à effectuer à Trois-Rivières",
-    "completed": true
-  },
-  {
-    "userId": 1,
-    "id": 9,
-    "title": "molestiae perspiciatis ipsa",
-    "completed": false
   }
-  
 ]
  
