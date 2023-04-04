@@ -1,94 +1,59 @@
- {
- "Client" :[
-        {
-            "nomClient": "Jean Dupont",
-            "adresse": "10 rue de la Paix, Paris",
-            "dateLivraison": "2022-04-15",
-            "heureLivraison": "14:00",
-            "description": "Colis à recuperer à saint-Martini et livrer à la rue la paix de Paris",
-            "articles": [
-                {
-                    "nomArticle": "Chemise",
-                    "quantite": 3
-                },
-                {
-                    "nomArticle": "Pantalon",
-                    "quantite": 2
-                }
-            ]
-        },
-        {
-            "nomClient": "Marie Martin",
-            "adresse": "25 avenue des Champs-Élysées, Paris",
-            "dateLivraison": "2022-04-17",
-            "heureLivraison": "10:00",
-            "description": "Colis à recuperer à saint-Yves et livrer à la rue la père Marquette",
-            "articles": [
-                {
-                    "nomArticle": "Robe",
-                    "quantite": 1
-                },
-                {
-                    "nomArticle": "Chaussures",
-                    "quantite": 2
-                },
-                {
-                    "nomArticle": "Sac à main",
-                    "quantite": 1
-                }
-            ]
-           },
-        {
-            "nomClient": "Jochiang Dupont",
-            "adresse": "11 rue de la Pastille, Paris",
-            "dateLivraison": "2023-07-15",
-            "heureLivraison": "14:00",
-            "description": "Colis à recuperer à saint-Martini et livrer à la rue la Pastille de Paris",
-            "articles": [
-                {
-                    "nomArticle": "Sac",
-                    "quantite": 3
-                },
-                {
-                    "nomArticle": "Pantalon",
-                    "quantite": 2
-                }
-            ]
-        },    
-        {
-            "nomClient": "Sawa Kev",
-            "adresse": "23 rue Papineau, Paris",
-            "dateLivraison": "2023-04-15",
-            "heureLivraison": "09:00",
-            "description": "Colis à recuperer à saint-Martini et livrer à la rue Papineau de TR",
-            "articles": [
-                {
-                    "nomArticle": "Sac",
-                    "quantite": 3
-                },
-                {
-                    "nomArticle": "Chaussures",
-                    "quantite": 2
-                }
-            ]
-        },  
-         {
-            "nomClient": "Kone Mimi",
-            "adresse": "123 rue du père-Marquette, TR",
-            "dateLivraison": "2023-04-07",
-            "heureLivraison": "16:00",
-            "description": "Colis à recuperer à saint-Martini et livrer à la rue du père-Marquette de TR",
-            "articles": [
-                {
-                    "nomArticle": "Sac",
-                    "quantite": 3
-                },
-                {
-                    "nomArticle": "Pantalon",
-                    "quantite": 2
-                }
-            ]
-        }
+[
+ 
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "livraison de 2 articles à effectuer à Rimouski",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "livraison de 5 articles à effectuer à Montréal",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "livraison de 4 articles à effectuer au Québec ",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "livraison de 7 articles à effectuer à Laravel",
+    "completed": true
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "livraison de 2 articles à effectuer à Boostrap",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 6,
+    "title": "livraison de 1 articles à effectuer à Shawinigan",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 7,
+    "title": "livraison de 7 articles à effectuer à Rimouski",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 8,
+    "title": "livraison de 2 articles à effectuer à Trois-Rivières",
+    "completed": true
+  },
+  {
+    "userId": 1,
+    "id": 9,
+    "title": "molestiae perspiciatis ipsa",
+    "completed": false
+  }
   
-    ]
-    }
+]
+ 
